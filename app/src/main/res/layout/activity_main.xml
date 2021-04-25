@@ -5,18 +5,21 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#707070">
+    android:background="#faf6e9">
 
-
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MainActivity">
+        tools:context=".MainActivity"
+        >
 
         <ImageView
             android:layout_width="30dp"
             android:layout_height="30dp"
-            android:layout_margin="30dp"
+            android:layout_margin="30.2dp"
             android:background="@drawable/ind" />
 
         <TextView
@@ -24,11 +27,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="70dp"
-            android:layout_marginTop="28dp"
+            android:layout_marginTop="27dp"
             android:fontFamily="sans-serif"
             android:text="Today"
             android:textAllCaps="false"
-            android:textColor="#FFFFFF"
+            android:textColor="#494949"
             android:textSize="24sp"
             android:textStyle="bold" />
 
@@ -41,9 +44,11 @@
             android:text="Last Updated"
             android:textAlignment="viewEnd"
             android:textAllCaps="true"
-            android:textColor="#FFFFFF"
+            android:textColor="#494949"
             android:textSize="8dp"
             android:textStyle="bold" />
+
+
 
         <RelativeLayout
             android:id="@+id/topContainer"
@@ -55,26 +60,29 @@
 
             <RelativeLayout
                 android:id="@+id/card1"
-                android:layout_width="331dp"
-                android:layout_height="126dp"
+                android:layout_width="292dp"
+                android:layout_height="107dp"
                 android:layout_weight="1"
-                android:background="@drawable/card1">
+                android:background="@drawable/card1"
+              >
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="9dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginTop="14dp"
+                    android:fontFamily="sans-serif"
                     android:text="Total"
                     android:textAllCaps="false"
                     android:textColor="#FFFFFF"
-                    android:textSize="38dp"
+                    android:textSize="20dp"
                     android:textStyle="bold" />
 
                 <ImageView
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="55dp"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="17dp"
                     android:src="@drawable/ic_virus"
                     android:tint="@color/dark_red" />
 
@@ -87,7 +95,7 @@
                     android:gravity="center_horizontal"
                     android:textAllCaps="true"
                     android:textColor="#FFFFFF"
-                    android:textSize="38dp"
+                    android:textSize="40dp"
                     android:textStyle="bold" />
 
 
@@ -95,8 +103,8 @@
 
 
             <RelativeLayout
-                android:layout_width="331dp"
-                android:layout_height="126dp"
+                android:layout_width="292dp"
+                android:layout_height="107dp"
                 android:layout_marginTop="150dp"
                 android:layout_weight="1"
                 android:background="@drawable/card2"
@@ -105,18 +113,19 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="4dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginTop="14dp"
                     android:text="Active"
                     android:textAllCaps="false"
                     android:textColor="#FFFFFF"
-                    android:textSize="38dp"
+                    android:textSize="20dp"
                     android:textStyle="bold" />
 
                 <ImageView
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="55dp"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="17dp"
                     android:src="@drawable/ic_patient"
                     android:tint="@color/dark_blue" />
 
@@ -129,7 +138,7 @@
                     android:gravity="center_horizontal"
                     android:textAllCaps="true"
                     android:textColor="#FFFFFF"
-                    android:textSize="38dp"
+                    android:textSize="40dp"
                     android:textStyle="bold" />
 
 
@@ -137,8 +146,8 @@
 
             <RelativeLayout
                 android:id="@+id/card3"
-                android:layout_width="331dp"
-                android:layout_height="126dp"
+                android:layout_width="292dp"
+                android:layout_height="107dp"
                 android:layout_marginTop="300dp"
                 android:layout_weight="1"
                 android:background="@drawable/card4"
@@ -147,18 +156,19 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="4dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginTop="14dp"
                     android:text="Recovered"
                     android:textAllCaps="false"
                     android:textColor="#FFFFFF"
-                    android:textSize="38dp"
+                    android:textSize="20dp"
                     android:textStyle="bold" />
 
                 <ImageView
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="55dp"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="17dp"
                     android:src="@drawable/ic_heart"
                     android:tint="@color/dark_green" />
 
@@ -171,7 +181,7 @@
                     android:gravity="center_horizontal"
                     android:textAllCaps="true"
                     android:textColor="#FFFFFF"
-                    android:textSize="38dp"
+                    android:textSize="40dp"
                     android:textStyle="bold" />
 
 
@@ -180,8 +190,8 @@
 
             <RelativeLayout
                 android:id="@+id/card4"
-                android:layout_width="331dp"
-                android:layout_height="126dp"
+                android:layout_width="292dp"
+                android:layout_height="107dp"
                 android:layout_marginTop="450dp"
                 android:layout_weight="1"
                 android:background="@drawable/card3"
@@ -190,18 +200,19 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="4dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginTop="14dp"
                     android:text="Deceased"
                     android:textAllCaps="false"
                     android:textColor="#FFFFFF"
-                    android:textSize="38dp"
+                    android:textSize="20dp"
                     android:textStyle="bold" />
 
                 <ImageView
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="55dp"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="17dp"
                     android:src="@drawable/ic_death"
                     android:tint="@color/dark_yellow" />
 
@@ -214,8 +225,95 @@
                     android:gravity="center_horizontal"
                     android:textAllCaps="true"
                     android:textColor="#FFFFFF"
-                    android:textSize="38dp"
+                    android:textSize="40dp"
                     android:textStyle="bold" />
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/card5"
+                android:layout_width="292dp"
+                android:layout_height="107dp"
+                android:layout_marginTop="600dp"
+                android:layout_weight="1"
+                android:background="@drawable/card5">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginTop="14dp"
+                    android:text="Vaccination"
+                    android:textAllCaps="false"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textStyle="bold" />
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="17dp"
+                    android:src="@drawable/inject" />
+
+
+                 <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="170dp"
+                    android:text="Click here"
+                    android:textAllCaps="false"
+                    android:textColor="#FFFFFF"
+                     android:layout_marginTop="60dp"
+                    android:textSize="18dp"
+                     android:gravity="center"
+                    android:textStyle="bold"
+                     android:id="@+id/click"/>
+
+
+
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/card6"
+                android:layout_width="292dp"
+                android:layout_height="107dp"
+                android:layout_marginTop="750dp"
+                android:layout_weight="1"
+                android:background="@drawable/card6">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginTop="14dp"
+                    android:text="Oxygen Availability"
+                    android:textAllCaps="false"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textStyle="bold" />
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="17dp"
+                    android:src="@drawable/o2" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="170dp"
+                    android:text="Check here"
+                    android:textAllCaps="false"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginTop="60dp"
+                    android:textSize="18dp"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:id="@+id/check"/>
+
 
 
             </RelativeLayout>
@@ -233,4 +331,5 @@
 
 
     </RelativeLayout>
+</ScrollView>
 </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>

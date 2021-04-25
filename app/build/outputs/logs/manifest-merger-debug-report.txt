@@ -1,13 +1,29 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\5988781b109aa2e81ee2deed8375ae92\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\bf6c48b1534ae8b9bcfc8078effa2a58\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\f5f7a66620d8831b0e3f7e12ec37a827\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.work:work-runtime-ktx:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\250b361a2ebad6eb7e3b5712938e34a0\work-runtime-ktx-2.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\4307bb41bd9a6baf5804eef224353ef2\jetified-firebase-database-15.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9374af822d2f1be290eb891508a4f4f6\jetified-firebase-core-15.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-connection:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\7595af1acdbd2b7e47faefe1f922d065\jetified-firebase-database-connection-15.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a80d1f471c15ac6679774b6c71be9a9e\jetified-firebase-common-15.0.1\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8da3cb7686ecc3b37a93f42c4181f782\jetified-firebase-iid-interop-15.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a19ed34a96ff8cb7443a1fb069c0361d\jetified-play-services-base-15.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\1fb453e5999a0407cada6f7116a82e5a\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\981b1f36e1679a643ca4ac3a54a958aa\jetified-firebase-database-collection-15.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ee8a719608054e39a503948db18e6a11\jetified-play-services-stats-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\4fd81535dfe044fd39ac2046244e9fa1\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8f093cbbe6ca0aeab1aa3ce19293dfbb\jetified-play-services-basement-15.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\96a74397ef92494db228d7cf06cc6e9f\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ea5cc53a4c0fcd6f7b577606e0866f8c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\81b0807f7773a49fb780228f6df8df22\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2b6c40ebf3a7527b5521abceeab31967\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2b728301d77254c90b065a7562075b49\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -15,11 +31,16 @@ MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Predator\.gr
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\cfd36d373bdd98f673d73f1567426fdc\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:17:1-132:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\04c94a1e7cecc3639be07ee7f25b855e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\3c7c20feb3b980d9a77692ebe9454bae\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ca5a9502cec0e083550aa68eca95ec74\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ecffca00653532609abe88e9789dadff\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9b4bd89cc4df75282110b16ba7443912\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\cf9a3c4239bbce36276eb74597875761\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\e377f562252c54c456415c94c3b7814f\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\f30bb8e1a65b3200a5c6bfc99cf75072\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9185af937948e70e6273b8b7c146a0fd\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\13ec772b2a549fa2e056ca3685a4747b\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\3195c467cfaa694381d129a12a64f370\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.2.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\f8a25a8e7a6c14f5ca703a491b755ba2\core-1.2.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\c7f0935e7d55a72aff026eb580088845\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\433b8fba667129f84d564b9e3aaa0ddd\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
@@ -33,31 +54,63 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Predator\.gradle\cac
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\152e3b21ca176c0b2733afd9419bb047\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8a7375613c7c0c4fcbc4a46a85279227\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\547917dfaad91e1ccbd3b1cbe7fda014\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\44f5de66e7b03ecbd5e6c3b2b34a75b7\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\3d9224abbe3544e52b48ba24015a43aa\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\7f965f507d38b4c2f90b65950242b04b\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\752185bda12feb296fc3f5821e4923bc\jetified-play-services-measurement-base-15.0.2\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:3:5-33
-		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:7:5-24:19
+ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:7:5-29:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\f5f7a66620d8831b0e3f7e12ec37a827\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\f5f7a66620d8831b0e3f7e12ec37a827\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9374af822d2f1be290eb891508a4f4f6\jetified-firebase-core-15.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9374af822d2f1be290eb891508a4f4f6\jetified-firebase-core-15.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a80d1f471c15ac6679774b6c71be9a9e\jetified-firebase-common-15.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a80d1f471c15ac6679774b6c71be9a9e\jetified-firebase-common-15.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8da3cb7686ecc3b37a93f42c4181f782\jetified-firebase-iid-interop-15.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8da3cb7686ecc3b37a93f42c4181f782\jetified-firebase-iid-interop-15.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a19ed34a96ff8cb7443a1fb069c0361d\jetified-play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a19ed34a96ff8cb7443a1fb069c0361d\jetified-play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\1fb453e5999a0407cada6f7116a82e5a\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\1fb453e5999a0407cada6f7116a82e5a\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ee8a719608054e39a503948db18e6a11\jetified-play-services-stats-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ee8a719608054e39a503948db18e6a11\jetified-play-services-stats-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\4fd81535dfe044fd39ac2046244e9fa1\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\4fd81535dfe044fd39ac2046244e9fa1\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8f093cbbe6ca0aeab1aa3ce19293dfbb\jetified-play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8f093cbbe6ca0aeab1aa3ce19293dfbb\jetified-play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:30:5-130:19
 MERGED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:30:5-130:19
 MERGED from [androidx.core:core:1.2.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\f8a25a8e7a6c14f5ca703a491b755ba2\core-1.2.0\AndroidManifest.xml:24:5-89
@@ -66,44 +119,58 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Pr
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\433b8fba667129f84d564b9e3aaa0ddd\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.room:room-runtime:2.2.3] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\1f65d6659d51cd62c2660ed4bdeee265\room-runtime-2.2.3\AndroidManifest.xml:24:5-28:19
 MERGED from [androidx.room:room-runtime:2.2.3] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\1f65d6659d51cd62c2660ed4bdeee265\room-runtime-2.2.3\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\752185bda12feb296fc3f5821e4923bc\jetified-play-services-measurement-base-15.0.2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\752185bda12feb296fc3f5821e4923bc\jetified-play-services-measurement-base-15.0.2\AndroidManifest.xml:22:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\f8a25a8e7a6c14f5ca703a491b755ba2\core-1.2.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.ay.coronameter.Oxygen
+ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:14:9-53
+	android:name
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:14:19-41
+activity#com.ay.coronameter.Vaccination
+ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:15:9-49
+	android:name
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:15:19-46
+activity#com.ay.coronameter.oxygen
+ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:17:9-62
+	android:name
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:17:19-59
 activity#com.ay.coronameter.MainActivity
-ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:18:9-24:20
 	android:name
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:14:19-65
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:18:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:22:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:21:9-23:57
+ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:26:9-28:57
 	android:resource
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:23:13-54
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:28:13-54
 	android:name
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml:22:13-43
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml:27:13-43
 uses-sdk
-INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\5988781b109aa2e81ee2deed8375ae92\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\5988781b109aa2e81ee2deed8375ae92\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\bf6c48b1534ae8b9bcfc8078effa2a58\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
@@ -112,6 +179,38 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Predator
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\f5f7a66620d8831b0e3f7e12ec37a827\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.work:work-runtime-ktx:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\250b361a2ebad6eb7e3b5712938e34a0\work-runtime-ktx-2.3.4\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.work:work-runtime-ktx:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\250b361a2ebad6eb7e3b5712938e34a0\work-runtime-ktx-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\4307bb41bd9a6baf5804eef224353ef2\jetified-firebase-database-15.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\4307bb41bd9a6baf5804eef224353ef2\jetified-firebase-database-15.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9374af822d2f1be290eb891508a4f4f6\jetified-firebase-core-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9374af822d2f1be290eb891508a4f4f6\jetified-firebase-core-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-connection:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\7595af1acdbd2b7e47faefe1f922d065\jetified-firebase-database-connection-15.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\7595af1acdbd2b7e47faefe1f922d065\jetified-firebase-database-connection-15.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a80d1f471c15ac6679774b6c71be9a9e\jetified-firebase-common-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a80d1f471c15ac6679774b6c71be9a9e\jetified-firebase-common-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8da3cb7686ecc3b37a93f42c4181f782\jetified-firebase-iid-interop-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8da3cb7686ecc3b37a93f42c4181f782\jetified-firebase-iid-interop-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a19ed34a96ff8cb7443a1fb069c0361d\jetified-play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a19ed34a96ff8cb7443a1fb069c0361d\jetified-play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\1fb453e5999a0407cada6f7116a82e5a\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\1fb453e5999a0407cada6f7116a82e5a\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\981b1f36e1679a643ca4ac3a54a958aa\jetified-firebase-database-collection-15.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\981b1f36e1679a643ca4ac3a54a958aa\jetified-firebase-database-collection-15.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ee8a719608054e39a503948db18e6a11\jetified-play-services-stats-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ee8a719608054e39a503948db18e6a11\jetified-play-services-stats-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\4fd81535dfe044fd39ac2046244e9fa1\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\4fd81535dfe044fd39ac2046244e9fa1\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8f093cbbe6ca0aeab1aa3ce19293dfbb\jetified-play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8f093cbbe6ca0aeab1aa3ce19293dfbb\jetified-play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\96a74397ef92494db228d7cf06cc6e9f\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\96a74397ef92494db228d7cf06cc6e9f\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ea5cc53a4c0fcd6f7b577606e0866f8c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ea5cc53a4c0fcd6f7b577606e0866f8c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\81b0807f7773a49fb780228f6df8df22\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\81b0807f7773a49fb780228f6df8df22\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2b6c40ebf3a7527b5521abceeab31967\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
@@ -126,6 +225,8 @@ MERGED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\
 MERGED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\04c94a1e7cecc3639be07ee7f25b855e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\04c94a1e7cecc3639be07ee7f25b855e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\3c7c20feb3b980d9a77692ebe9454bae\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\3c7c20feb3b980d9a77692ebe9454bae\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ca5a9502cec0e083550aa68eca95ec74\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ca5a9502cec0e083550aa68eca95ec74\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\ecffca00653532609abe88e9789dadff\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
@@ -134,8 +235,16 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Pre
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9b4bd89cc4df75282110b16ba7443912\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\cf9a3c4239bbce36276eb74597875761\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\cf9a3c4239bbce36276eb74597875761\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\e377f562252c54c456415c94c3b7814f\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\e377f562252c54c456415c94c3b7814f\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\f30bb8e1a65b3200a5c6bfc99cf75072\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\f30bb8e1a65b3200a5c6bfc99cf75072\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9185af937948e70e6273b8b7c146a0fd\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9185af937948e70e6273b8b7c146a0fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\13ec772b2a549fa2e056ca3685a4747b\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\13ec772b2a549fa2e056ca3685a4747b\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\3195c467cfaa694381d129a12a64f370\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\3195c467cfaa694381d129a12a64f370\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.2.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\f8a25a8e7a6c14f5ca703a491b755ba2\core-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.2.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\f8a25a8e7a6c14f5ca703a491b755ba2\core-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\c7f0935e7d55a72aff026eb580088845\interpolator-1.0.0\AndroidManifest.xml:20:5-44
@@ -162,24 +271,192 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Predator
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8a7375613c7c0c4fcbc4a46a85279227\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\547917dfaad91e1ccbd3b1cbe7fda014\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\547917dfaad91e1ccbd3b1cbe7fda014\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\44f5de66e7b03ecbd5e6c3b2b34a75b7\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\44f5de66e7b03ecbd5e6c3b2b34a75b7\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\3d9224abbe3544e52b48ba24015a43aa\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\3d9224abbe3544e52b48ba24015a43aa\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\7f965f507d38b4c2f90b65950242b04b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\7f965f507d38b4c2f90b65950242b04b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\752185bda12feb296fc3f5821e4923bc\jetified-play-services-measurement-base-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\752185bda12feb296fc3f5821e4923bc\jetified-play-services-measurement-base-15.0.2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\COVID-India-Tracker-master\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:25:5-68
-	android:name
-		ADDED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:25:22-65
+		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Predator\Downloads\COVID-India-Tracker-master\Covid\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:26:5-79
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:22:5-79
+MERGED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:26:5-79
 	android:name
-		ADDED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:26:22-76
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:24:5-68
+MERGED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\9091de728ac45c0195fab4dd2f8f57ed\jetified-firebase-analytics-impl-15.0.2\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\974fc768a9c97104180c4ef89fadd0a9\jetified-firebase-analytics-15.0.2\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:29:9-63
+permission#com.ay.coronameter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:32:22-76
+uses-permission#com.ay.coronameter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:32:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:35:18-89
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.ay.coronameter
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:48:27-58
+category#com.ay.coronameter
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\0fb1188abf4f9a4dbad8127fc540182c\jetified-firebase-iid-15.1.0\AndroidManifest.xml:60:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a80d1f471c15ac6679774b6c71be9a9e\jetified-firebase-common-15.0.1\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a80d1f471c15ac6679774b6c71be9a9e\jetified-firebase-common-15.0.1\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a80d1f471c15ac6679774b6c71be9a9e\jetified-firebase-common-15.0.1\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a80d1f471c15ac6679774b6c71be9a9e\jetified-firebase-common-15.0.1\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a80d1f471c15ac6679774b6c71be9a9e\jetified-firebase-common-15.0.1\AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a19ed34a96ff8cb7443a1fb069c0361d\jetified-play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a19ed34a96ff8cb7443a1fb069c0361d\jetified-play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a19ed34a96ff8cb7443a1fb069c0361d\jetified-play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\a19ed34a96ff8cb7443a1fb069c0361d\jetified-play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8f093cbbe6ca0aeab1aa3ce19293dfbb\jetified-play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8f093cbbe6ca0aeab1aa3ce19293dfbb\jetified-play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\8f093cbbe6ca0aeab1aa3ce19293dfbb\jetified-play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
 ADDED from [androidx.work:work-runtime:2.3.4] C:\Users\Predator\.gradle\caches\transforms-2\files-2.1\2ff36e8ec07ada579cc1ce9b7e7aa82d\work-runtime-2.3.4\AndroidManifest.xml:27:5-81
 	android:name

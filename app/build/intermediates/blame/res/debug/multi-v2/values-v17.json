@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\COVID-India-Tracker-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "outputFile": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Predator\\.gradle\\caches\\transforms-2\\files-2.1\\5988781b109aa2e81ee2deed8375ae92\\appcompat-1.1.0\\res\\values-v17\\values-v17.xml",
