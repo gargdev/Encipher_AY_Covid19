@@ -1,6 +1,6 @@
 # Encipher_AY_Covid19
 This repository is dedicated to the hackathon arranged by the Innovation and Incubation Cell of BIET, Jhansi. <br>
-The ongoing pandemic is a time of need and uncertainity for all.The idea behind this app originated from the shared desire & intent of the team members to provide help in any possible form in these challenging times to the best of our abilities.This event acted as the necessary push for us to get it started.  
+The ongoing pandemic is a time of need and uncertainity for all.The idea behind CoviHelp app originated from the shared desire & intent of the team members to provide help in any possible form in these challenging times to the best of our abilities.This event acted as the necessary push for us to get it started.  
 
 ## API Credits <br>
 https://api.covid19india.org/data.json
