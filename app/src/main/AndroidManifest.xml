@@ -11,10 +11,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Oxygen"></activity>
+        <activity android:name=".ActiveCase"></activity>
+        <activity android:name=".Prevention" />
+        <activity android:name=".Oxygen" />
         <activity android:name=".Vaccination" />
         <activity android:name=".Vaccination" />
-        <activity android:name="com.ay.coronameter.oxygen" />
+        <activity android:name=".oxygen" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

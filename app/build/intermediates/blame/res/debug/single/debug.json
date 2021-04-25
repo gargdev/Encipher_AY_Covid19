@@ -1,47 +1,23 @@
 [
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_inject.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxhdpi\\inject.png"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pr2.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxxhdpi\\pr2.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_patient.xml.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\ic_patient.xml"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_stat_notification_icon.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\ic_stat_notification_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ind.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xhdpi\\ind.png"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pr3.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xhdpi\\pr3.png"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_oxygen.xml.flat",
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\layout\\activity_oxygen.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pr5.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\pr5.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_o2.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xhdpi\\o2.png"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ind.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxxhdpi\\ind.png"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pr6.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-ldpi\\pr6.png"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_list.xml.flat",
@@ -64,32 +40,240 @@
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\card3.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pr2.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xhdpi\\pr2.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_o2.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-ldpi\\o2.png"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_virus.xml.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\ic_virus.xml"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pr6.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxhdpi\\pr6.png"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\font_advent_pro_semibold.xml.flat",
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\font\\advent_pro_semibold.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ind.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-ldpi\\ind.png"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ind.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-ldpi\\ind.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pr4.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\pr4.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pr4.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-mdpi\\pr4.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pr1.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxxhdpi\\pr1.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card2.xml.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\card2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_prevention.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-ldpi\\prevention.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_prevention.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxhdpi\\prevention.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_inject.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxxhdpi\\inject.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pr1.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-ldpi\\pr1.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_inject.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\inject.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card5.xml.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\card5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_death.xml.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\ic_death.xml"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pr1.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxhdpi\\pr1.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pr3.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxxhdpi\\pr3.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ind.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\ind.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pr4.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-ldpi\\pr4.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pr3.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-mdpi\\pr3.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_prevention.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxxhdpi\\prevention.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_o2.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxhdpi\\o2.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pr6.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-mdpi\\pr6.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_heart.xml.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\ic_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_o2.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\o2.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pr6.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxxhdpi\\pr6.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pr4.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxhdpi\\pr4.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_inject.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxhdpi\\inject.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pr2.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\pr2.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_patient.xml.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\ic_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_stat_notification_icon.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\ic_stat_notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_prevention.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\prevention.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ind.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xhdpi\\ind.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pr6.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xhdpi\\pr6.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_o2.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xhdpi\\o2.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pr3.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxhdpi\\pr3.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_prevention.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-mdpi\\prevention.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ind.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxxhdpi\\ind.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pr3.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-ldpi\\pr3.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pr1.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\pr1.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pr5.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxxhdpi\\pr5.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pr1.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-mdpi\\pr1.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_o2.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-ldpi\\o2.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_virus.xml.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\ic_virus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_prevention.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xhdpi\\prevention.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pr2.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-ldpi\\pr2.png"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card6.xml.flat",
@@ -104,10 +288,6 @@
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
-    },
-    {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_stat_notification_icon.png.flat",
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stat_notification_icon.png"
     },
@@ -116,16 +296,16 @@
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xhdpi\\inject.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card2.xml.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\card2.xml"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pr5.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xhdpi\\pr5.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pr1.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xhdpi\\pr1.png"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_stat_notification_icon.png.flat",
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-mdpi\\ic_stat_notification_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_o2.png.flat",
@@ -136,12 +316,32 @@
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-mdpi\\o2.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pr2.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxhdpi\\pr2.png"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pr2.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-mdpi\\pr2.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pr4.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxxhdpi\\pr4.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pr5.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-ldpi\\pr5.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pr5.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxhdpi\\pr5.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pr5.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-mdpi\\pr5.png"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_inject.png.flat",
@@ -160,40 +360,24 @@
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_stat_notification_icon.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_inject.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxxhdpi\\inject.png"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pr4.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xhdpi\\pr4.png"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_inject.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\inject.png"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card5.xml.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\card5.xml"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_death.xml.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\ic_death.xml"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ind.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\ind.png"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card1.xml.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\card1.xml"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pr3.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\pr3.png"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card1.xml.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\card1.xml"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ind.png.flat",
@@ -208,35 +392,23 @@
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\layout\\list_header.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_o2.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-xxhdpi\\o2.png"
-    },
-    {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\font_amaranth.xml.flat",
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\font\\amaranth.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_heart.xml.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\ic_heart.xml"
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_active_case.xml.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\layout\\activity_active_case.xml"
+    },
+    {
+        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pr6.png.flat",
+        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\pr6.png"
     },
     {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card4.xml.flat",
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable\\card4.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_o2.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-hdpi\\o2.png"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_inject.png.flat",
         "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\drawable-ldpi\\inject.png"
-    },
-    {
-        "merged": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Predator\\Downloads\\COVID-India-Tracker-master\\Covid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     }
 ]

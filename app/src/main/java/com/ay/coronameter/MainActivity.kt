@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.widget.AbsListView
+import android.widget.ImageButton
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.work.*
@@ -25,12 +26,19 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val vactext: TextView = findViewById(R.id.click)
         val oxytext: TextView =findViewById(R.id.check)
+        val actv: TextView =findViewById(R.id.confirmedTv)
+
         vactext.setOnClickListener {
             val intent = Intent(this, Vaccination::class.java)
             startActivity(intent)
         }
         oxytext.setOnClickListener {
             val intent = Intent(this, Oxygen::class.java)
+            startActivity(intent)
+        }
+
+        actv.setOnClickListener {
+            val intent = Intent(this, ActiveCase::class.java)
             startActivity(intent)
         }
         list.addHeaderView(LayoutInflater.from(this).inflate(R.layout.list_header, list, false))
