@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.swiperefreshlayout.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swipeToRefresh"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#707070">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="30dp"
+            android:background="@drawable/ind" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="28dp"
+            android:fontFamily="sans-serif"
+            android:text="Today"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/lastUpdatedTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="16dp"
+            android:text="Last Updated"
+            android:textAlignment="viewEnd"
+            android:textAllCaps="true"
+            android:textColor="#FFFFFF"
+            android:textSize="8dp"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:id="@+id/topContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/textView"
+            android:layout_marginTop="25dp"
+            android:gravity="center_horizontal">
+
+            <RelativeLayout
+                android:id="@+id/card1"
+                android:layout_width="331dp"
+                android:layout_height="126dp"
+                android:layout_weight="1"
+                android:background="@drawable/card1">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="9dp"
+                    android:text="Total"
+                    android:textAllCaps="false"
+                    android:textColor="#FFFFFF"
+                    android:textSize="38dp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="55dp"
+                    android:src="@drawable/ic_virus"
+                    android:tint="@color/dark_red" />
+
+                <TextView
+                    android:id="@+id/confirmedTv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="50dp"
+                    android:gravity="center_horizontal"
+                    android:textAllCaps="true"
+                    android:textColor="#FFFFFF"
+                    android:textSize="38dp"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="331dp"
+                android:layout_height="126dp"
+                android:layout_marginTop="150dp"
+                android:layout_weight="1"
+                android:background="@drawable/card2"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dp"
+                    android:text="Active"
+                    android:textAllCaps="false"
+                    android:textColor="#FFFFFF"
+                    android:textSize="38dp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="55dp"
+                    android:src="@drawable/ic_patient"
+                    android:tint="@color/dark_blue" />
+
+                <TextView
+                    android:id="@+id/activeTv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="50dp"
+                    android:gravity="center_horizontal"
+                    android:textAllCaps="true"
+                    android:textColor="#FFFFFF"
+                    android:textSize="38dp"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/card3"
+                android:layout_width="331dp"
+                android:layout_height="126dp"
+                android:layout_marginTop="300dp"
+                android:layout_weight="1"
+                android:background="@drawable/card4"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dp"
+                    android:text="Recovered"
+                    android:textAllCaps="false"
+                    android:textColor="#FFFFFF"
+                    android:textSize="38dp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="55dp"
+                    android:src="@drawable/ic_heart"
+                    android:tint="@color/dark_green" />
+
+                <TextView
+                    android:id="@+id/recoveredTv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="50dp"
+                    android:gravity="center_horizontal"
+                    android:textAllCaps="true"
+                    android:textColor="#FFFFFF"
+                    android:textSize="38dp"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/card4"
+                android:layout_width="331dp"
+                android:layout_height="126dp"
+                android:layout_marginTop="450dp"
+                android:layout_weight="1"
+                android:background="@drawable/card3"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dp"
+                    android:text="Deceased"
+                    android:textAllCaps="false"
+                    android:textColor="#FFFFFF"
+                    android:textSize="38dp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="55dp"
+                    android:src="@drawable/ic_death"
+                    android:tint="@color/dark_yellow" />
+
+                <TextView
+                    android:id="@+id/deceasedTv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="50dp"
+                    android:gravity="center_horizontal"
+                    android:textAllCaps="true"
+                    android:textColor="#FFFFFF"
+                    android:textSize="38dp"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+
+        <ListView
+            android:id="@+id/list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/topContainer"
+            android:layout_marginTop="20dp"
+            tools:listheader="@layout/list_header" />
+
+
+    </RelativeLayout>
+</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
