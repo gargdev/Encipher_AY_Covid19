@@ -1,14 +1,15 @@
 # Encipher_AY_Covid19
 This repo is dedicated to hackathon arranged by the innovation and ecumbation cell of BIET, Jhasi.
 
-API Credits 
+# API Credits 
 https://api.covid19india.org/data.json
 
-Websites Credits
+# Websites Credits
 https://life.coronasafe.network/ <br>
 https://dashboard.cowin.gov.in/
 
-Here are Schreenshots of the app. 
-<img src="https://github.com/gargdev/Encipher_AY_Covid19/blob/main/app/Phone%20Wallpaper%20Mockup%20Instagram%20Story%20Design.gif"/>
-<img src="https://github.com/gargdev/Encipher_AY_Covid19/blob/main/app/Blue%20Phone%20Text%20Message%20Instagram%20Reel%20Video%20.png" style="width:192px;height:108px;"/>
+# Screenshots
+<img src="https://github.com/gargdev/Encipher_AY_Covid19/blob/main/app/Phone%20Wallpaper%20Mockup%20Instagram%20Story%20Design.gif" width="216" height="384"/>
+<img src="https://github.com/gargdev/Encipher_AY_Covid19/blob/main/app/Blue%20Phone%20Text%20Message%20Instagram%20Reel%20Video%20.png" width="216" height="384" />
+<img src="https://github.com/gargdev/Encipher_AY_Covid19/blob/main/app/Blue%20Phone%20Text%20Message%20Instagram%20Reel%20Video%20%20(1).png" width="216" height="384" />
 
